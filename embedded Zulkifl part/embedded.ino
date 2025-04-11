@@ -1,3 +1,6 @@
+
+Uncommented Parts done by zulkifl
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <SD.h>  // SD card re-enabled
